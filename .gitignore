@@ -45,3 +45,27 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+*.pdf
+*.jpg
+*.exe
+*.png
+*.o
+*.zip
+*.gz
+*.html
+*.uvprojx
+*.uvoptx
+*.uvguix.âÿ÷
+*.map
+*.lst
+*.dbgconf
+*.s
+*.crf
+*.d
+*.dep
+*.htm
+*.axf
+*.lnp
+*.iex
+
